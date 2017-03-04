@@ -1,0 +1,16 @@
+apm (0.00008552,selectbyhotkeys) (0.00000250,AssignToHotkeys) (0.00001244,numberofpacs)
+ (-0.18997,gapbetweenpacs)   (-0.26755,actionlatency) 
+
+
+
+selectbyhotkeys=0.00008552*apm-0.00571
+AssignToHotkeys=0.00000250*apm+0.00008041
+numberofpacs=0.00001244*apm+0.00201
+gapbetweenpacs=-0.18997*apm+62.59690
+actionlatency=-0.26755*apm+95.05584 
+
+
+
+complexAbilitiesused=1.47242*ComplexUnitsMade+0.00005437)
+
+

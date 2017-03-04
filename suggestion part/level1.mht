@@ -1,0 +1,2872 @@
+From: =?Windows-1252?B?0tHTySBJbnRlcm5ldCBFeHBsb3JlciAxMSCxo7Tm?=
+Subject: SAS Output
+Date: Sun, 6 May 2012 19:08:40 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Users\Qihang\AppData\Local\Temp\SAS Temporary Files\_TD14640_QIHANG-PC_\sashtml.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17514
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META content=3D"IE=3D5.0000" =
+http-equiv=3D"X-UA-Compatible">
+<TITLE>SAS Output</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.17842">
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-type>
+<STYLE type=3Dtext/css>.aftercaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; PADDING-TOP: 4pt; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.batch {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: 'SAS =
+Monospace', 'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px =
+solid; BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; PADDING-BOTTOM: 7px; FONT-STYLE: =
+normal; PADDING-TOP: 7px; PADDING-LEFT: 7px; BORDER-SPACING: 1px; =
+BORDER-LEFT: #c1c1c1 1px solid; PADDING-RIGHT: 7px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.beforecaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.body {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; MARGIN-LEFT: =
+8px; BACKGROUND-COLOR: #fafbfe; MARGIN-RIGHT: 8px
+}
+.bodydate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; =
+BACKGROUND-COLOR: #fafbfe
+}
+.bycontentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.byline {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.bylinecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.caption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.cell {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.container {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contentprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contents {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.contentsdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contenttitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.continued {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+TEXT-ALIGN: left; BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.data {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.dataemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.dataempty {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datafixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: =
+#c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: normal; BORDER-LEFT: =
+#c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datastrong {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.datastrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.date {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.document {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+A:link {
+	COLOR: #0000ff
+}
+A:visited {
+	COLOR: #800080
+}
+A:active {
+	COLOR: #800080
+}
+.errorbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.errorcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.errorcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.extendedpage {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 1pt solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 1pt solid; =
+BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; TEXT-ALIGN: center; BORDER-LEFT: #000000 1pt solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.fatalcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.folderaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.footer {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasis {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.footeremphasisfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.footerempty {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #edf2f9
+}
+.footerstrong {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerstrongfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.frame {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.graph {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.header {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.headersandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.index {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.indexaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.indextitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.layoutcontainer {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.layoutregion {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.list {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.listitem {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.note {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notebanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.notecontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notecontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.output {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.pageno {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pages {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.pagesdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.pagesitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.pagesproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagesprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagestitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.paragraph {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.parskip {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: bold; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BORDER-LEFT: #000000 0px solid
+}
+.prepage {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.proctitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.proctitlefixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.rowfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasis {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.rowfooteremphasisfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterempty {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterstrong {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterstrongfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheader {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.systemfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle10 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle2 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle3 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle4 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle5 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle6 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle7 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle8 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle9 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systitleandfootercontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.table {
+	BORDER-TOP: #c1c1c1 1px solid; BORDER-RIGHT: #c1c1c1 0px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 0px solid; =
+BORDER-SPACING: 0px; BORDER-LEFT: #c1c1c1 1px solid
+}
+.top_stacked_value {
+	PADDING-BOTTOM: 1px
+}
+.middle_stacked_value {
+	PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+.bottom_stacked_value {
+	PADDING-TOP: 1px
+}
+.titleandnotecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.titlesandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.usertext {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.warnbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.warncontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.warncontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.l {
+	TEXT-ALIGN: left
+}
+.c {
+	TEXT-ALIGN: center
+}
+.r {
+	TEXT-ALIGN: right
+}
+.d {
+	TEXT-ALIGN: right
+}
+.j {
+	TEXT-ALIGN: justify
+}
+.t {
+	VERTICAL-ALIGN: top
+}
+.m {
+	VERTICAL-ALIGN: middle
+}
+.b {
+	VERTICAL-ALIGN: bottom
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+TH {
+	VERTICAL-ALIGN: top
+}
+.stacked_cell {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px
+}
+</STYLE>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY class=3Dbody onload=3Dstartup() onunload=3Dshutdown()>
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+var _info =3D navigator.userAgent
+var _ie =3D (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 =3D _info.indexOf("x64") > 0
+
+//-->
+</SCRIPT>
+
+<DIV class=3Dbranch><A name=3DIDX></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The LOGISTIC Procedure</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Model Information" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>Model=20
+  Information</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Data Set</TH>
+    <TD class=3D"l data">WORK.SIKLLLEVEL1</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Response Variable</TH>
+    <TD class=3D"l data">Lb</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Response Levels</TH>
+    <TD class=3D"l data">2</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"l data">binary logit</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Optimization Technique</TH>
+    <TD class=3D"l data">Fisher's =
+scoring</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX1></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Observations Summary" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Read</TH>
+    <TD class=3D"r data">3395</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Used</TH>
+    <TD class=3D"r =
+data">3338</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX2></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Response Profile" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Response =
+Profile</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Ordered<BR>Value</TH>
+    <TH class=3D"l b header" scope=3Dcol>Lb</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Total<BR>Frequency</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TD class=3D"l data">1</TD>
+    <TD class=3D"r data">514</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TD class=3D"l data">0</TD>
+    <TD class=3D"r data">2824</TD></TR></TBODY></TABLE></DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Probability modeled is Lb=3D1.</DIV>
+<P></P></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">57 observations were deleted due to =
+missing=20
+      values for the response or explanatory=20
+variables.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Stepwise Selection Procedure</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">Step 0. Intercept entered:</DIV>
+<P><A name=3DIDX3></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX4></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"l data">=3D</TD>
+    <TD class=3D"l =
+data">2867.734</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX5></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">909.5380</TD>
+    <TD class=3D"r data">18</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"l proctitle">Step 1. Effect ActionLatency entered:</DIV>
+<P><A name=3DIDX6></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX7></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">2138.777</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">2151.003</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">2134.777</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX8></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">732.9564</TD>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">786.2014</TD>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">487.8275</TD>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX9></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">254.9418</TD>
+    <TD class=3D"r data">17</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No effects for the model in Step 1 are=20
+    removed.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">Step 2. Effect APM entered:</DIV>
+<P><A name=3DIDX10></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX11></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">1997.056</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">2015.396</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">1991.056</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX12></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">876.6773</TD>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">801.1785</TD>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">490.6783</TD>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX13></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">161.4604</TD>
+    <TD class=3D"r data">16</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No effects for the model in Step 2 are=20
+    removed.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">Step 3. Effect AssignToHotkeys entered:</DIV>
+<P><A name=3DIDX14></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX15></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">1943.531</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">1967.984</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">1935.531</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX16></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">932.2024</TD>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">824.1363</TD>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">493.6925</TD>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX17></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">115.4500</TD>
+    <TD class=3D"r data">15</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No effects for the model in Step 3 are=20
+    removed.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">Step 4. Effect TotalHours entered:</DIV>
+<P><A name=3DIDX18></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX19></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">1813.673</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">1844.238</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">1803.673</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX20></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">1064.0609</TD>
+    <TD class=3D"r data">4</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">824.2765</TD>
+    <TD class=3D"r data">4</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">511.6032</TD>
+    <TD class=3D"r data">4</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX21></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">87.2176</TD>
+    <TD class=3D"r data">14</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No effects for the model in Step 4 are=20
+    removed.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">Step 5. Effect NumberOfPACs entered:</DIV>
+<P><A name=3DIDX22></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX23></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">1799.007</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">1835.686</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">1787.007</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX24></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">1080.7267</TD>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">828.1649</TD>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">510.1201</TD>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX25></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">69.0638</TD>
+    <TD class=3D"r data">13</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No effects for the model in Step 5 are=20
+    removed.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">Step 6. Effect GapBetweenPACs entered:</DIV>
+<P><A name=3DIDX26></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX27></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">1782.198</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">1824.990</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">1768.198</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX28></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">1099.5356</TD>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">868.5028</TD>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">515.5371</TD>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX29></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">50.6254</TD>
+    <TD class=3D"r data">12</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"l proctitle">Step 7. Effect ActionLatency is =
+removed:</DIV>
+<P><A name=3DIDX30></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX31></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">1780.943</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">1817.621</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">1768.943</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX32></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">1098.7911</TD>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">793.0151</TD>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">513.6138</TD>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX33></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">51.4103</TD>
+    <TD class=3D"r data">13</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No effects for the model in Step 7 are=20
+    removed.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">Step 8. Effect HoursPerWeek entered:</DIV>
+<P><A name=3DIDX34></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX35></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">1770.221</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">1813.013</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">1756.221</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX36></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">1111.5126</TD>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">793.1587</TD>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">514.6869</TD>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX37></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">38.5987</TD>
+    <TD class=3D"r data">12</TD>
+    <TD class=3D"r =
+data">0.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No effects for the model in Step 8 are=20
+    removed.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">Step 9. Effect WorkersMade entered:</DIV>
+<P><A name=3DIDX38></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX39></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">1760.527</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">1809.432</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">1744.527</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX40></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">1123.2071</TD>
+    <TD class=3D"r data">7</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">814.0025</TD>
+    <TD class=3D"r data">7</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">519.1675</TD>
+    <TD class=3D"r data">7</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX41></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">27.9032</TD>
+    <TD class=3D"r data">11</TD>
+    <TD class=3D"r =
+data">0.0033</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No effects for the model in Step 9 are=20
+    removed.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">Step 10. Effect MinimapAttacks entered:</DIV>
+<P><A name=3DIDX42></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX43></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">1752.543</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">1807.561</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">1734.543</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX44></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">1133.1908</TD>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">817.0599</TD>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">518.7544</TD>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX45></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">20.7223</TD>
+    <TD class=3D"r data">10</TD>
+    <TD class=3D"r =
+data">0.0231</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No effects for the model in Step 10 are=20
+    removed.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">Step 11. Effect ComplexUnitsMade =
+entered:</DIV>
+<P><A name=3DIDX46></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX47></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">1747.466</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">1808.597</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">1727.466</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX48></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">1140.2675</TD>
+    <TD class=3D"r data">9</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">826.9049</TD>
+    <TD class=3D"r data">9</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">520.8985</TD>
+    <TD class=3D"r data">9</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX49></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">14.6479</TD>
+    <TD class=3D"r data">9</TD>
+    <TD class=3D"r =
+data">0.1011</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No effects for the model in Step 11 are=20
+    removed.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">Step 12. Effect TotalMapExplored =
+entered:</DIV>
+<P><A name=3DIDX50></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Convergence Status" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>Model Convergence =
+Status</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"c data">Convergence criterion (GCONV=3D1E-8)=20
+  satisfied.</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX51></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Model Fit =
+Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Criterion</TH>
+    <TH class=3D"r b header" scope=3Dcol>Intercept<BR>Only</TH>
+    <TH class=3D"r b header"=20
+  scope=3Dcol>Intercept<BR>and<BR>Covariates</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AIC</TH>
+    <TD class=3D"r data">2869.734</TD>
+    <TD class=3D"r data">1741.268</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SC</TH>
+    <TD class=3D"r data">2875.847</TD>
+    <TD class=3D"r data">1808.513</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>-2 Log L</TH>
+    <TD class=3D"r data">2867.734</TD>
+    <TD class=3D"r =
+data">1719.268</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX52></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Global Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Testing Global =
+Null=20
+      Hypothesis: BETA=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio</TH>
+    <TD class=3D"r data">1148.4654</TD>
+    <TD class=3D"r data">10</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Score</TH>
+    <TD class=3D"r data">827.0760</TD>
+    <TD class=3D"r data">10</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Wald</TH>
+    <TD class=3D"r data">520.9071</TD>
+    <TD class=3D"r data">10</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX53></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Residual Chi-Square" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Residual =
+Chi-Square=20
+  Test</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Chi-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">6.3300</TD>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r =
+data">0.6103</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No effects for the model in Step 12 are=20
+    removed.</TD></TR></TBODY></TABLE></DIV>
+<P><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dnotebanner>
+  <TBODY>
+  <TR>
+    <TD class=3D"l notebanner">Note:</TD>
+    <TD class=3D"l notecontent">No (additional) effects met the 0.05=20
+      significance level for entry into the =
+model.</TD></TR></TBODY></TABLE></DIV>
+<P><A name=3DIDX54></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Model Building Summary" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D8 scope=3Dcolgroup>Summary of =
+Stepwise=20
+      Selection</TH></TR>
+  <TR>
+    <TH class=3D"r b header" rowSpan=3D2 scope=3Dcol>Step</TH>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>Effect</TH>
+    <TH class=3D"r b header" rowSpan=3D2 scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" rowSpan=3D2 scope=3Dcol>Number<BR>In</TH>
+    <TH class=3D"r b header" rowSpan=3D2 =
+scope=3Dcol>Score<BR>Chi-Square</TH>
+    <TH class=3D"r b header" rowSpan=3D2 =
+scope=3Dcol>Wald<BR>Chi-Square</TH>
+    <TH class=3D"r b header" rowSpan=3D2 =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Entered</TH>
+    <TH class=3D"l b header" scope=3Dcol>Removed</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"l rowheader" scope=3Drow>ActionLatency</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">786.2014</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"l rowheader" scope=3Drow>APM</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">108.2751</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"l rowheader" scope=3Drow>AssignToHotkeys</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">52.3148</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"l rowheader" scope=3Drow>TotalHours</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">4</TD>
+    <TD class=3D"r data">33.0248</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"l rowheader" scope=3Drow>NumberOfPACs</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r data">16.6669</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"l rowheader" scope=3Drow>GapBetweenPACs</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">18.5345</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TH class=3D"l rowheader" scope=3Drow>ActionLatency</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">0.7396</TD>
+    <TD class=3D"r data">0.3898</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"l rowheader" scope=3Drow>HoursPerWeek</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">13.0265</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">0.0003</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"l rowheader" scope=3Drow>WorkersMade</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">7</TD>
+    <TD class=3D"r data">11.0782</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">0.0009</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"l rowheader" scope=3Drow>MinimapAttacks</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r data">7.8383</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">0.0051</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"l rowheader" scope=3Drow>ComplexUnitsMade</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">9</TD>
+    <TD class=3D"r data">6.4695</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">0.0110</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"l rowheader" scope=3Drow>TotalMapExplored</TH>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">10</TD>
+    <TD class=3D"r data">8.3085</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">0.0039</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX55></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Maximum=20
+      Likelihood Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Parameter</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Wald<BR>Chi-Square</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;ChiSq</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">3.2669</TD>
+    <TD class=3D"r data">0.4465</TD>
+    <TD class=3D"r data">53.5447</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>HoursPerWeek</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.0217</TD>
+    <TD class=3D"r data">0.00667</TD>
+    <TD class=3D"r data">10.5693</TD>
+    <TD class=3D"r data">0.0011</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>TotalHours</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.00249</TD>
+    <TD class=3D"r data">0.000245</TD>
+    <TD class=3D"r data">103.0800</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>APM</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.0165</TD>
+    <TD class=3D"r data">0.00324</TD>
+    <TD class=3D"r data">26.0946</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AssignToHotkeys</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-2459.4</TD>
+    <TD class=3D"r data">436.9</TD>
+    <TD class=3D"r data">31.6821</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MinimapAttacks</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-2883.7</TD>
+    <TD class=3D"r data">875.5</TD>
+    <TD class=3D"r data">10.8485</TD>
+    <TD class=3D"r data">0.0010</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>NumberOfPACs</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-868.3</TD>
+    <TD class=3D"r data">117.5</TD>
+    <TD class=3D"r data">54.6430</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>GapBetweenPACs</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.0163</TD>
+    <TD class=3D"r data">0.00416</TD>
+    <TD class=3D"r data">15.3038</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>TotalMapExplored</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.0294</TD>
+    <TD class=3D"r data">0.0102</TD>
+    <TD class=3D"r data">8.2640</TD>
+    <TD class=3D"r data">0.0040</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>WorkersMade</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-493.6</TD>
+    <TD class=3D"r data">174.8</TD>
+    <TD class=3D"r data">7.9777</TD>
+    <TD class=3D"r data">0.0047</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ComplexUnitsMade</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-2655.2</TD>
+    <TD class=3D"r data">866.7</TD>
+    <TD class=3D"r data">9.3863</TD>
+    <TD class=3D"r =
+data">0.0022</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX56></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Odds Ratios" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Odds Ratio =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Effect</TH>
+    <TH class=3D"r b header" scope=3Dcol>Point Estimate</TH>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>95% =
+Wald<BR>Confidence=20
+      Limits</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>HoursPerWeek</TH>
+    <TD class=3D"r data">1.022</TD>
+    <TD class=3D"r data">1.009</TD>
+    <TD class=3D"r data">1.035</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>TotalHours</TH>
+    <TD class=3D"r data">0.998</TD>
+    <TD class=3D"r data">0.997</TD>
+    <TD class=3D"r data">0.998</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>APM</TH>
+    <TD class=3D"r data">0.984</TD>
+    <TD class=3D"r data">0.977</TD>
+    <TD class=3D"r data">0.990</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>AssignToHotkeys</TH>
+    <TD class=3D"r data">&lt;0.001</TD>
+    <TD class=3D"r data">&lt;0.001</TD>
+    <TD class=3D"r data">&lt;0.001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MinimapAttacks</TH>
+    <TD class=3D"r data">&lt;0.001</TD>
+    <TD class=3D"r data">&lt;0.001</TD>
+    <TD class=3D"r data">&lt;0.001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>NumberOfPACs</TH>
+    <TD class=3D"r data">&lt;0.001</TD>
+    <TD class=3D"r data">&lt;0.001</TD>
+    <TD class=3D"r data">&lt;0.001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>GapBetweenPACs</TH>
+    <TD class=3D"r data">1.016</TD>
+    <TD class=3D"r data">1.008</TD>
+    <TD class=3D"r data">1.025</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>TotalMapExplored</TH>
+    <TD class=3D"r data">1.030</TD>
+    <TD class=3D"r data">1.009</TD>
+    <TD class=3D"r data">1.051</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>WorkersMade</TH>
+    <TD class=3D"r data">&lt;0.001</TD>
+    <TD class=3D"r data">&lt;0.001</TD>
+    <TD class=3D"r data">&lt;0.001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ComplexUnitsMade</TH>
+    <TD class=3D"r data">&lt;0.001</TD>
+    <TD class=3D"r data">&lt;0.001</TD>
+    <TD class=3D"r =
+data">&lt;0.001</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX57></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Logistic: Association Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Association of =
+Predicted=20
+      Probabilities and Observed<BR>Responses</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Percent Concordant</TH>
+    <TD class=3D"r data">90.7</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Somers' D</TH>
+    <TD class=3D"r data">0.816</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Percent Discordant</TH>
+    <TD class=3D"r data">9.1</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Gamma</TH>
+    <TD class=3D"r data">0.817</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Percent Tied</TH>
+    <TD class=3D"r data">0.2</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Tau-a</TH>
+    <TD class=3D"r data">0.213</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Pairs</TH>
+    <TD class=3D"r data">1451536</TD>
+    <TH class=3D"l rowheader" scope=3Drow>c</TH>
+    <TD=20
+class=3D"r =
+data">0.908</TD></TR></TBODY></TABLE></DIV></DIV><BR></DIV></BODY></HTML>=
+
